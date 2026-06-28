@@ -35,15 +35,9 @@ ESP32 by Espressif Systems
 
 ## 4 Upload ESP32 Code
 
-Open
+Open ESP32_Audio_Streamer.ino
 
-ESP32_Audio_Streamer.ino
-
-Select
-
-Board
-
-ESP32 Dev Module
+Select Board ESP32 Dev Module
 
 Upload.
 
@@ -51,13 +45,7 @@ Upload.
 
 ## 5 Connect Wi-Fi
 
-Update
-
-SSID
-
-Password
-
-inside ESP32 code.
+Update SSID Password inside ESP32 code.
 
 ---
 
