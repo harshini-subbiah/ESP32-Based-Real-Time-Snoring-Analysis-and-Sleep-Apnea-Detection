@@ -204,29 +204,6 @@ The program automatically
 
 ---
 
-# Future Improvements
-
-- Adaptive Thresholding
-- Machine Learning Classification
-- Deep Learning (CNN/LSTM)
-- Cloud Storage
-- Mobile Application
-- Live GUI
-- Real-Time Alerts
-
----
-
-# Applications
-
-- Home Sleep Monitoring
-- Biomedical Signal Processing
-- Obstructive Sleep Apnea Screening
-- Remote Healthcare
-- IoMT
-- Telemedicine
-
----
-
 # Authors
 
 Harshini S
