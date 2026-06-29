@@ -202,8 +202,6 @@ The program automatically
 
 ---
 
----
-
 # Authors
 
 Harshini S
